@@ -1,0 +1,23 @@
+[33mcommit 350aff59d9289aa2a831406a31fcc4e8e37d8694[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Guilherme <guif.cavalcante@gmail.com>
+Date:   Thu Aug 21 20:10:36 2025 -0500
+
+    feat: cria um estilo azul para index.html Refs #04
+
+[33mcommit e54657d29db4656c00d3ab53d75b7949ee433a24[m
+Author: Ana-ribeiro-tx <ana.ribeiroxp@gmail.com>
+Date:   Thu Aug 21 19:41:28 2025 -0500
+
+    fix: cria página index com boas-vindas - Ref. #3
+
+[33mcommit 207061258ef772d2161dda1a2be6713940beaace[m
+Author: Ana-ribeiro-tx <ana.ribeiroxp@gmail.com>
+Date:   Thu Aug 21 19:37:17 2025 -0500
+
+    feat: cria página index com boas-vindas - Ref. #2
+
+[33mcommit 70ea53c65611d3bf447eb78a9cd39d56e84c06c9[m
+Author: Guizo <126927314+GuiFeC@users.noreply.github.com>
+Date:   Thu Aug 21 18:59:57 2025 -0500
+
+    Initial commit
